@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/art/devo/TTU_Classes/miniproject-4/bitmap.h
+
+/home/art/devo/TTU_Classes/miniproject-4/mandel.c
+bitmap.h
+/home/art/devo/TTU_Classes/miniproject-4/bitmap.h
+errno.h
+-
+getopt.h
+-
+math.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pthread.h
+-
+

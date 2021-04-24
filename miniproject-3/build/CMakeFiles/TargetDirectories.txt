@@ -1,0 +1,3 @@
+/home/art/devo/TTU_Classes/miniproject-3/build/CMakeFiles/rebuild_cache.dir
+/home/art/devo/TTU_Classes/miniproject-3/build/CMakeFiles/edit_cache.dir
+/home/art/devo/TTU_Classes/miniproject-3/build/CMakeFiles/main.dir

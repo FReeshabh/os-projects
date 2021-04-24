@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/art/devo/TTU_Classes/miniproject-3/segments.c
+segments.h
+/home/art/devo/TTU_Classes/miniproject-3/segments.h
+string.h
+-
+stdlib.h
+-
+
+/home/art/devo/TTU_Classes/miniproject-3/segments.h
+
