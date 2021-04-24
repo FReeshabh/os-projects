@@ -1,0 +1,4 @@
+/home/art/devo/TTU_Classes/miniproject-2/build/CMakeFiles/rebuild_cache.dir
+/home/art/devo/TTU_Classes/miniproject-2/build/CMakeFiles/edit_cache.dir
+/home/art/devo/TTU_Classes/miniproject-2/build/CMakeFiles/test.dir
+/home/art/devo/TTU_Classes/miniproject-2/build/CMakeFiles/shell.dir

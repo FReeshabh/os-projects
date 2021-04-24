@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/art/devo/TTU_Classes/miniproject-2/shell.c
+stdio.h
+-
+shell.h
+/home/art/devo/TTU_Classes/miniproject-2/shell.h
+stdlib.h
+-
+unistd.h
+-
+sys/wait.h
+-
+
+/home/art/devo/TTU_Classes/miniproject-2/shell.h
+
